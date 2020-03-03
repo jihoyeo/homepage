@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traffic safety | Jiho Yeo</title>
+    <link>/homepage/tags/traffic-safety/</link>
+      <atom:link href="/homepage/tags/traffic-safety/index.xml" rel="self" type="application/rss+xml" />
+    <description>Traffic safety</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Traffic safety</title>
+      <link>/homepage/tags/traffic-safety/</link>
+    </image>
+    
+    <item>
+      <title>Develop safety surrogate measure for evaluating motor carrier companies and drivers</title>
+      <link>/homepage/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/homepage/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observation and Experiment of Driving Behaviors near Speed Humps and Speed Tables</title>
+      <link>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Urban Sprawl and Vehicle Miles Traveled on Traffic Fatalities</title>
+      <link>/homepage/publication/effects-of-urban-sprawl-and-vehicle-miles-traveled-on-traffic-fatalities/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/homepage/publication/effects-of-urban-sprawl-and-vehicle-miles-traveled-on-traffic-fatalities/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

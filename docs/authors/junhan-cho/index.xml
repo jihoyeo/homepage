@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junhan Cho | Jiho Yeo</title>
+    <link>/homepage/authors/junhan-cho/</link>
+      <atom:link href="/homepage/authors/junhan-cho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junhan Cho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Junhan Cho</title>
+      <link>/homepage/authors/junhan-cho/</link>
+    </image>
+    
+    <item>
+      <title>Observation and Experiment of Driving Behaviors near Speed Humps and Speed Tables</title>
+      <link>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sungjin Park | Jiho Yeo</title>
+    <link>/homepage/authors/sungjin-park/</link>
+      <atom:link href="/homepage/authors/sungjin-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sungjin Park</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sungjin Park</title>
+      <link>/homepage/authors/sungjin-park/</link>
+    </image>
+    
+    <item>
+      <title>Effects of Urban Sprawl and Vehicle Miles Traveled on Traffic Fatalities</title>
+      <link>/homepage/publication/effects-of-urban-sprawl-and-vehicle-miles-traveled-on-traffic-fatalities/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/homepage/publication/effects-of-urban-sprawl-and-vehicle-miles-traveled-on-traffic-fatalities/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
