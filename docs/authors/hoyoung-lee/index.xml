@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hoyoung Lee | Jiho Yeo</title>
-    <link>/homepage/authors/hoyoung-lee/</link>
-      <atom:link href="/homepage/authors/hoyoung-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/hoyoung-lee/</link>
+      <atom:link href="/authors/hoyoung-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Hoyoung Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hoyoung Lee</title>
-      <link>/homepage/authors/hoyoung-lee/</link>
+      <link>/authors/hoyoung-lee/</link>
     </image>
     
     <item>
       <title>Observation and Experiment of Driving Behaviors near Speed Humps and Speed Tables</title>
-      <link>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
+      <link>/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
+      <guid>/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
       <description></description>
     </item>
     

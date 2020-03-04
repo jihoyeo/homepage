@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dong-kyu Kim | Jiho Yeo</title>
-    <link>/homepage/authors/dong-kyu-kim/</link>
-      <atom:link href="/homepage/authors/dong-kyu-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/dong-kyu-kim/</link>
+      <atom:link href="/authors/dong-kyu-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Dong-kyu Kim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dong-kyu Kim</title>
-      <link>/homepage/authors/dong-kyu-kim/</link>
+      <link>/authors/dong-kyu-kim/</link>
     </image>
     
     <item>
       <title>Observation and Experiment of Driving Behaviors near Speed Humps and Speed Tables</title>
-      <link>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
+      <link>/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
+      <guid>/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
       <description></description>
     </item>
     

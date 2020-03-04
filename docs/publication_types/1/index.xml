@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Jiho Yeo</title>
-    <link>/homepage/publication_types/1/</link>
-      <atom:link href="/homepage/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
-      <link>/homepage/publication_types/1/</link>
+      <link>/publication_types/1/</link>
     </image>
     
     <item>
       <title>Develop safety surrogate measure for evaluating motor carrier companies and drivers</title>
-      <link>/homepage/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</link>
+      <link>/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/homepage/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</guid>
+      <guid>/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Observation and Experiment of Driving Behaviors near Speed Humps and Speed Tables</title>
-      <link>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
+      <link>/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
+      <guid>/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kitae Jang | Jiho Yeo</title>
-    <link>/homepage/authors/kitae-jang/</link>
-      <atom:link href="/homepage/authors/kitae-jang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/kitae-jang/</link>
+      <atom:link href="/authors/kitae-jang/index.xml" rel="self" type="application/rss+xml" />
     <description>Kitae Jang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Kitae Jang</title>
-      <link>/homepage/authors/kitae-jang/</link>
+      <link>/authors/kitae-jang/</link>
     </image>
     
     <item>
       <title>Empirical evaluation of influential factors on bifurcation in macroscopic fundamental diagrams</title>
-      <link>/homepage/publication/empirical-evaluation-of-influential-factors-on-bifurcation-in-macroscopic-fundamental-diagrams/</link>
+      <link>/publication/empirical-evaluation-of-influential-factors-on-bifurcation-in-macroscopic-fundamental-diagrams/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/homepage/publication/empirical-evaluation-of-influential-factors-on-bifurcation-in-macroscopic-fundamental-diagrams/</guid>
+      <guid>/publication/empirical-evaluation-of-influential-factors-on-bifurcation-in-macroscopic-fundamental-diagrams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Develop safety surrogate measure for evaluating motor carrier companies and drivers</title>
-      <link>/homepage/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</link>
+      <link>/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/homepage/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</guid>
+      <guid>/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Observation and Experiment of Driving Behaviors near Speed Humps and Speed Tables</title>
-      <link>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
+      <link>/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/homepage/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
+      <guid>/publication/observation-and-experiment-of-driving-behaviors-near-speed-humps-and-speed-tables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of Urban Sprawl and Vehicle Miles Traveled on Traffic Fatalities</title>
-      <link>/homepage/publication/effects-of-urban-sprawl-and-vehicle-miles-traveled-on-traffic-fatalities/</link>
+      <link>/publication/effects-of-urban-sprawl-and-vehicle-miles-traveled-on-traffic-fatalities/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/homepage/publication/effects-of-urban-sprawl-and-vehicle-miles-traveled-on-traffic-fatalities/</guid>
+      <guid>/publication/effects-of-urban-sprawl-and-vehicle-miles-traveled-on-traffic-fatalities/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human mobility | Jiho Yeo</title>
+    <link>/tags/human-mobility/</link>
+      <atom:link href="/tags/human-mobility/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human mobility</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Human mobility</title>
+      <link>/tags/human-mobility/</link>
+    </image>
+    
+    <item>
+      <title>The evolution of inter-city travel network</title>
+      <link>/research/inter-city_travel_network/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/research/inter-city_travel_network/</guid>
+      <description>&lt;p&gt;In this study, we constructed a weighted network model of freeway and railway and investigated characteristics of inter-city travel and their evolution patterns over 40 years. This post provides 
+&lt;a href=&#34;https://jihoyeo.bitbucket.io/inter-city_travel_network.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dashboard&lt;/a&gt; that visualize long-term evolution patterns of freeway and railway network.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jooyoung Lee | Jiho Yeo</title>
-    <link>/homepage/authors/jooyoung-lee/</link>
-      <atom:link href="/homepage/authors/jooyoung-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/jooyoung-lee/</link>
+      <atom:link href="/authors/jooyoung-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Jooyoung Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jooyoung Lee</title>
-      <link>/homepage/authors/jooyoung-lee/</link>
+      <link>/authors/jooyoung-lee/</link>
     </image>
     
     <item>
       <title>Develop safety surrogate measure for evaluating motor carrier companies and drivers</title>
-      <link>/homepage/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</link>
+      <link>/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/homepage/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</guid>
+      <guid>/publication/develop-safety-surrogate-measure-for-evaluating-motor-carrier-companies-and-drivers/</guid>
       <description></description>
     </item>
     

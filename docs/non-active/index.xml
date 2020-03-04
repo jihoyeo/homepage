@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Non-actives | Jiho Yeo</title>
-    <link>/homepage/non-active/</link>
-      <atom:link href="/homepage/non-active/index.xml" rel="self" type="application/rss+xml" />
+    <link>/non-active/</link>
+      <atom:link href="/non-active/index.xml" rel="self" type="application/rss+xml" />
     <description>Non-actives</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Non-actives</title>
-      <link>/homepage/non-active/</link>
+      <link>/non-active/</link>
     </image>
     
     <item>
       <title>Slides</title>
-      <link>/homepage/non-active/slides/example/</link>
+      <link>/non-active/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/homepage/non-active/slides/example/</guid>
+      <guid>/non-active/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
